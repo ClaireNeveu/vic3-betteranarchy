@@ -1,0 +1,13 @@
+{
+  "name" : "Better Anarchy",
+  "id" : "BetterAnarchy",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.7.*",
+  "short_description" : "Better Anarchy",
+  "tags" : ["Balance"],
+  "relationships" : [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true,
+    "replace_paths": []
+  }
+}
